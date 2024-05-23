@@ -1,0 +1,23 @@
+section {
+    display: flex;
+    justify-content: center;
+    min-height: 10vh;
+    margin: 0;
+}
+
+figure {
+    text-align: center;
+    margin: 30px;
+}
+
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+
+h1, h2, p {
+    margin: 20px 0;
+    text-align: center;
+}
